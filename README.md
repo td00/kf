@@ -7,11 +7,10 @@ Der Main Code stammt aber aus meiner Feder.
 
 To-Do:
 
-- Fix CSS @ "#auto"
+- Now located @ issues
 
-- Implement new Contact Form
 
-- Fixing the blog engine (offline)
+Got help from @Fightbackman
 
 Live Version (master commit checked by me:)
 http://kf.rib.td00.de/
